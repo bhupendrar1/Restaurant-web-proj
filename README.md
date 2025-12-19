@@ -46,7 +46,7 @@ restaurant-website/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/restaurant-website.git
+git clone https://github.com/bhupendrar1/Restaurant-web-proj.git
 ```
 
 2. Open the project folder
