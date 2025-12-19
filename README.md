@@ -14,7 +14,6 @@ A modern, responsive **Restaurant Website** built using **HTML, CSS, and JavaScr
 * 📅 **Table Booking Form** with validation
 * ✨ Smooth animations using **ScrollReveal.js**
 * 📱 Mobile-friendly navigation menu
-* 🌐 Ready for Netlify deployment
 
 ---
 
